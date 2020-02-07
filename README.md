@@ -3,4 +3,4 @@ Recreation of Wassily Kandisky's Circles In a Circle in Processing
 
 The End Result:
 
-![](capture.png)
+![](Capture.png)
